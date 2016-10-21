@@ -1,0 +1,67 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 20-oct-2016, 19:46:02
+    Author     : Ale
+*/
+.submit{
+    background-color: #CC9F8C;
+    color: white; 
+    box-shadow: 5px 5px 3px #826F68;
+}
+.submit:hover{
+    opacity:.85;
+    cursor: pointer; 
+    background-color: #D9807D;
+    color: white; 
+    
+}
+.input{
+    border-radius: 6px;
+    font-size: 18px;
+    font-family: 'ABeeZee', sans-serif;
+    padding-left: 5px;
+    padding-right: 16px;
+    padding-top: 3px;
+    padding-bottom: 5px;
+    border-color:#CC9F8C;
+    border-width: 1px; 
+}
+.contenido2 {
+    padding:5%;
+}
+.texto{
+	font-family: 'ABeeZee', sans-serif;
+        font-size: 25px;
+	color:#CC9F8C;
+	text-shadow: 2px 4px 3px rgba(0,0,0,0.3);
+     
+	
+}
+.titulo{
+        font-family: 'ABeeZee', sans-serif;
+        font-size: 35px;
+	color:#CC9F8C;
+	text-shadow: 2px 4px 3px rgba(0,0,0,0.3);
+        text-align: center;
+}
+.centrado{
+    display: table;
+    align-items: center;
+    width: 100%;
+    text-align: center;
+}
+.fondo{
+    background-image:url( abstract-20.jpg);
+}
+.texto2{
+	font-family: 'ABeeZee', sans-serif;
+        font-size: 35px;
+	color:#CC9F8C;
+	text-shadow: 2px 4px 3px rgba(0,0,0,0.3);
+	
+}
+
